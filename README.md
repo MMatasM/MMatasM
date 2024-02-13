@@ -1,5 +1,7 @@
 Hello, I'm Matas! 👋
+
 📊 About Me
+
 As a dedicated and insightful Data Analyst, my journey is fueled by a deep-rooted curiosity about the business world. With a specialization in product, marketing, and payment analysis, my academic journey at Turing College transformed my understanding and capabilities in data analytics. My expertise is further supplemented by a foundational understanding of financial and risk analysis, enabling me to approach data with a comprehensive perspective.
 
 🎓 Education
